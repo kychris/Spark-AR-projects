@@ -1,0 +1,36 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.08.2015 19:08:37
+
+newmtl black_leather
+	Ns 50.0000
+	Ni 1.6000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka black leather_Diffuse.jpg
+	map_Kd black leather_Diffuse.jpg
+	map_bump black leather_Bump.jpg
+	bump black leather_Bump.jpg
+	map_refl black leather_Ref.jpg
+
+newmtl fabric
+	Ns 50.0000
+	Ni 1.6000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka hat farbic_Diffuse.jpg
+	map_Kd hat farbic_Diffuse.jpg
+	map_bump hat farbic_ref.jpg
+	bump hat farbic_ref.jpg
+	map_refl hat farbic_bump.jpg
